@@ -1,0 +1,9 @@
+{
+    "name": "first-tang-nano",
+    "board": "tangnano1k",
+    "top": "top",
+    "constraintsFile": "constraints/tangnano1k.cst",
+    "includedFiles": [
+        "src/top.v"
+    ]
+}
